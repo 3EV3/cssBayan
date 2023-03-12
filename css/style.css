@@ -122,24 +122,29 @@ body {
     max-height: 0;
 }
 
-.images-comments {
+.first-Bayan {
     background-image: url('../assets/images/1.jpg');
     background-size: cover;
 }
 
-.project-images {
+.second-Bayan {
     background-image: url('../assets/images/2.jpg');
     background-size: cover;
     width: 32vw;
 }
 
-.third-point {
+.third-Bayan {
     background-image: url('../assets/images/3.jpg');
     background-size: cover;
 }
 
-.last-point {
+.fourth-Bayan {
     background-image: url('../assets/images/4.jpg');
+    background-size: cover;
+}
+
+.fifth-Bayan {
+    background-image: url('../assets/images/5.jpg');
     background-size: cover;
 }
 
@@ -162,7 +167,7 @@ body {
     }
 
 
-    .project-images {
+    .second-Bayan {
         width: 84vw;
         height: 57vw;
     }
@@ -291,24 +296,29 @@ body {
     max-height: 0;
 }
 
-.images-comments {
+.first-Bayan {
     background-image: url('../assets/images/1.jpg');
     background-size: cover;
 }
 
-.project-images {
+.second-Bayan {
     background-image: url('../assets/images/2.jpg');
     background-size: cover;
     width: 32vw;
 }
 
-.third-point {
+.third-Bayan {
     background-image: url('../assets/images/3.jpg');
     background-size: cover;
 }
 
-.last-point {
+.fourth-Bayan {
     background-image: url('../assets/images/4.jpg');
+    background-size: cover;
+}
+
+.fifth-Bayan {
+    background-image: url('../assets/images/5.jpg');
     background-size: cover;
 }
 
@@ -330,7 +340,7 @@ body {
         height: 48vw;
     }
 
-    .project-images {
+    .second-Bayan {
         width: 84vw;
         height: 57vw;
     }
