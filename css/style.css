@@ -92,7 +92,7 @@ body {
 }
 
 .mark {
-    background: url('');
+    background: url('../assets/images/mark.png');
     width: 3vw;
     height: 3vw;
     background-size: contain;
@@ -123,23 +123,23 @@ body {
 }
 
 .images-comments {
-    background-image: url('');
+    background-image: url('../assets/images/1.jpg');
     background-size: cover;
 }
 
 .project-images {
-    background-image: url('');
+    background-image: url('../assets/images/2.jpg');
     background-size: cover;
     width: 32vw;
 }
 
 .third-point {
-    background-image: url('');
+    background-image: url('../assets/images/3.jpg');
     background-size: cover;
 }
 
 .last-point {
-    background-image: url('');
+    background-image: url('../assets/images/4.jpg');
     background-size: cover;
 }
 
@@ -261,7 +261,7 @@ body {
 }
 
 .mark {
-    background: url('');
+    background: url('../assets/images/mark.png');
     width: 3vw;
     height: 3vw;
     background-size: contain;
@@ -292,23 +292,23 @@ body {
 }
 
 .images-comments {
-    background-image: url('');
+    background-image: url('../assets/images/1.jpg');
     background-size: cover;
 }
 
 .project-images {
-    background-image: url('');
+    background-image: url('../assets/images/2.jpg');
     background-size: cover;
     width: 32vw;
 }
 
 .third-point {
-    background-image: url('');
+    background-image: url('../assets/images/3.jpg');
     background-size: cover;
 }
 
 .last-point {
-    background-image: url('');
+    background-image: url('../assets/images/4.jpg');
     background-size: cover;
 }
 
